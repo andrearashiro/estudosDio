@@ -1,0 +1,126 @@
+
+História da Internet
+- 1969 - início nos EUA (Aparnet) - facilitava comunicação com laboratório;
+- 1987 - uso comercial nos EUA;
+- CERN - liberação para uso geral da população;
+
+Primeiro domínio criado
+symbolics.com
+
+Primeiro blog
+Open Diary, criado por um brasileiro na MIT
+
+Primeira compra
+CD do cantor Sting
+
+Site mais antigo em atividade
+NORDUnet
+
+Termos-Chave da Internet
+Link é diferente de URL - link é ligação e URL é o endereço;
+Jogando a URL no WhatsApp por exemplo ele cria um link
+
+Pixel - picture + elemento
+
+Keylogger - copia o que você está digitando no teclado
+
+Phishing - copia algum site ou outra informação de um local confiável para roubar dados
+
+Click bait - notícias cujas funções é clicar nela (para roubar dados por exemplo) - simples click pode executar funções que prejudicam
+
+Atualmente no Brasil
+75% da população tem acesso na internet.
+
+Como funciona a Internet
+Redes
+
+Backbone - espinha dorsal, para não necessitar conexões entre computadores diretamente, reduzir as conexões dos PC
+Geralmente são as empresas telefônicas que possuem esses Backbones;
+
+Provedor de serviços
+- DialUp
+- Adsl
+- Fibra ótica
+- Etc
+
+127.0.0.1 (local host)
+
+TCP/IP
+- Dados precisam ser transmitidos de acordo com o protocolo (TCP)
+
+TCP/UDP - ambas possuem nas conexões (modem)
+UDP - envia mas não aguarda resposta, rápido, não confiável, "carro do ovo", livestream;
+TCP - mais lento, foco na conexão, handshake (verifica se esta tudo certo na conexão), resposta do pacote, itegridade, ordem de dados;
+
+Portas (portos)
+- portas por onde sairão e chegarão os dados:
+- FTP (20), SSH (22), SMTP (25), etc
+
+Modem (Modulator-demodulator)
+- transforma tudo em sinal de internet e depois o modem que recebe demodula;
+Roteador
+- Distribui internet para uma ou mais dispositivo, pode ser "Burro", joga dados para todos os computadores.
+- Switch - inteligente, joga a informação somentepara o pc que requisitou;
+
+Dados móveis
+
+SMS
+- Não custa nada para uma operadora de telefonia para enviar SMS;
+MMS
+- Mensagem multimídia;
+Conexão móveis
+1G...5G
+
+Wi-Fi
+IEEE - estabelece padrões para várias tecnologias;
+IEEE - 802.11n - mais velocidade
+Segurança
+WEP - chaves de 64bits e 128bits
+WAP - evolução do WEP
+WAP2 - mais seguro, um pouco mais lento;
+
+Bluetooth
+- Ponto a ponto e não depende da internet;
+
+Browser(Navegador)
+- Interpreta linguagem de programação (LP) e o torna visível para humanos;
+- HTML - linguagem de marcação e não programação;
+- plug-ins ou add-ons;
+- Cache e cookies - alguns arquivos ou aspectos do site são carregados e salvo no cache para que para ser acessado posteriormente o site carregue mais rápido;
+- Cookies - utiliza o histório de acesso para rastrear e expor ao usuário informações de interesse dele.
+- Página estática x dinâmica;
+
+https://archive.org/web/
+
+Site x Aplicativo x E-commerce
+- Hoje os sites estão diminuindo e as maioridade do uso é para softwares, aplicações.
+
+Web-server x Web-service
+- interfaceo para consulta segura nos bancos de dados acessíveus (Web-service);
+- Local para hospedagem de arquivos, dados e aplicações (Web-server);
+
+Stacks - tecnológicas de uma empresa
+- Pilhas de tecnologia, conjunto de softwares necessários e suficiente para executar um aplicativo/programa;
+- Todas as tecnologias suficientes para que uma empresa fazer seus aplicativos;
+- É importante saber das stacks para quando os líderes de projetos forem desenvolver algum sistema (limites e capacidade);
+
+Front, End e Back-End (divisão das stacks)
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
